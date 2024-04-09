@@ -3,15 +3,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap" rel="stylesheet">
-<style>
-* {
-    font-family: "Gothic A1", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    background-color: rgba(22, 22, 22, 0.534);
-    color: white;  
- 
-  }
 </style>
   
 <h1 align="center">Hi 👋, I'm Lakshya soni</h1>
