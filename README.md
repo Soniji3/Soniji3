@@ -1,15 +1,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap" rel="stylesheet">
-<style>
-* {
-    font-family: "Gothic A1", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    background-color: rgba(22, 22, 22, 0.534);
-    color: white;  
-}
-</style>
+
 
 # Hi 👋, I'm Lakshya Soni
 ## A Passionate developer.
@@ -54,7 +46,7 @@ Hey there, I'm Lakshya! I recently graduated from Rajasthan University, and whil
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-xd-icon.png" alt="xd" width="40" height="40"/>
     </a>
 </div>
 
